@@ -1,4 +1,4 @@
-A blockchain betting game where bets are placed on the roullet wheel on a dice roll with crypto currency. A correct bet is rewarded with double the betting amount. **Their is an equal probability of winning and lossing**.
+A blockchain betting game where bets are placed over a [roulette wheel](https://en.wikipedia.org/wiki/Roulette) on a dice roll with crypto currency. A correct bet is rewarded with double the betting amount. **Their is an equal probability of winning and lossing**.
 
 **Technical stack**:
 1. Ethereum smart contract- hosted on the blockchain
@@ -19,7 +19,7 @@ A blockchain betting game where bets are placed on the roullet wheel on a dice r
 
 Interesting read- [Solidity pitfall: random number generation](https://www.sitepoint.com/solidity-pitfalls-random-number-generation-for-ethereum/)
 
-# Understanding the files
+**Understanding the files**
 
 1. BettingGame.sol- main solidity file to be used
 2. App.js- the front end application
