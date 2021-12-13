@@ -11,6 +11,8 @@ A blockchain betting game where bets are placed over a [roulette wheel](https://
 2. Any editor for React
 3. Node.js
 4. Remix IDE (**No download and installation needed, it runs on the web**)
+5. [Rinkeby: Authentication](https://faucet.rinkeby.io/)
+6. [Testnet Links](https://faucets.chain.link/)
 
 **Technical Requirements**:
 1. React.js
