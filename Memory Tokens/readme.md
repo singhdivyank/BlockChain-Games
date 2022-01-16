@@ -7,6 +7,8 @@ For every correct match the user is provided tokens which are cryptocurrencies a
 1. **Frontend**: game logic implented on a client side web application written in **React**
 2. **Backend**: the **blockchain** serves as a backend database
 
+**The development standards are in accordance with [ERC721](http://erc721.org/)**
+
 # Architecture
 
 1. A web browsr will talk to a client side website
