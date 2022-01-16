@@ -15,3 +15,9 @@ For every correct match the user is provided tokens which are cryptocurrencies a
 2. The game logic is written on the client side website
 3. Tokens are created and saved on the blockchain
 4. Business logic of the blockchain component is written on an Ethereum smart contract
+
+# Requirements
+
+1. **Node.js**: install all the dependencies and interacts with the client side application
+2. **[Truffle](https://trufflesuite.com/)**: a framework used for writing, testing Ethereum smart contracts and deploying them on a blockchain. For installation- <code> npm install --g truffle@5.1.39 </code>
+3. **Ganache**: a personal blockchain for Ethereum development that can be used to deploy contracts, develop the applications and run tests. Available as both a desktop application and command line interface
