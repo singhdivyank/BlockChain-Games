@@ -4,3 +4,6 @@ In this repository I explored the domain of Blockchain development by developing
 
 1. Memory Tokens
 2. Crypto Casino
+
+
+**Credits**: [Dapp University](https://youtube.com/playlist?list=PLGItlKLZg9gLIY3SlCluVYm9tGxhiA5L1)
