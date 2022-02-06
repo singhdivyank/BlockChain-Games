@@ -24,7 +24,7 @@ For every correct match the user is provided tokens which are cryptocurrencies a
 4. **Ganache**: a personal blockchain for Ethereum development that can be used to deploy contracts, develop the applications and run tests. Available as both a desktop application and command line interface
 5. **[chai](https://www.chaijs.com/)**: an assertion library required for testing will be paired alongside **[mocha](https://mochajs.org/)** testing framework
 
-# Set up Metamask
+# Metamask setup
 
 1. Install the [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?utm_source=chrome-ntp-icon) extension for chrome
 2. Complete the setup
